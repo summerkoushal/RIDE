@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.ProfilePhoto {
+  width: 30px;
+  border-radius: 100%;
+  /* margin: 10px; */
+}
+
+.profilebtn {
+  margin-right: 60px;
+}
+
+.PickDropItem {
+  margin: 10px 5px 10px 5px;
+}
+
+.findTrip {
+  border-color: grey;
+  border-style:solid;
+  border-radius: 20px;
+  height: auto;
+  /* display: flex; */
+  /* width: 100%; */
+
+}
+
+.MainContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 50px 50px;
+}
+
+.PickDrokpContainer {
+  /* padding: 50px; */
+}
+
+#map {
+    height: 400px;
+    width: 400px;
+}
